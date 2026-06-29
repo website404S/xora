@@ -31,7 +31,7 @@ status     : building something, always
 ### 🛠️ Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=py,nodejs,supabase,mysql,gcp,vercel,linux,vscode,bash&perline=5" alt="My Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=py,nodejs,supabase,mysql,gcp,vercel,linux,vscode,bash,arduino&perline=5" alt="My Tech Stack" />
 </div>
 
 ---
