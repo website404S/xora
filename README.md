@@ -4,7 +4,7 @@
 
 ### Backend Developer · Systems Thinker · Hardware Enthusiast
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-xora--dev--portofolio.vercel.app-58a6ff?style=for-the-badge&logo=vercel&logoColor=white)](https://xora-dev-portofolio.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Xora-portofolio x.vercel.app-58a6ff?style=for-the-badge&logo=vercel&logoColor=white)](https://xora-portofoliox.vercel.app/)
 
 </div>
 
